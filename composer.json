@@ -1,0 +1,17 @@
+{
+    "name": "ees/tnotify",
+    "description": "Send message to telegram",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Evgeny Samotesov",
+            "email": "samotesov@me.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "TNotify\\": "src/Tnotify"
+        }
+    }
+}
